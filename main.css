@@ -271,13 +271,13 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
+  content: "VoidXD";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v6.1.3";
+  content: "version";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -328,13 +328,13 @@ textarea,
   order: 1;
 }
 .typeMacOS-3EmCyP:before {
-  content: "CV";
+  content: "VoidXD";
   color: var(--main-color);
   font-weight: 700;
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3EmCyP:after {
-  content: "6.1.3";
+  content: "mac version";
   color: rgba(255, 255, 255, 0.3);
 }
 
